@@ -1,0 +1,22 @@
+[
+  {
+    "portfolioType": "flexible",
+    "portfolioName": "portfolio1",
+    "dateAdded": "2022-12-01",
+    "stocks": [
+      {
+        "stockTransactions": [
+          {
+            "transactionDate": "2022-12-01",
+            "transactionType": "BUY",
+            "quantityAfterTransaction": 1.0,
+            "commission": 5.0
+          }
+        ],
+        "stockName": "APPLE INC",
+        "stockSymbol": "AAPL"
+      }
+    ],
+    "strategies": []
+  }
+]
